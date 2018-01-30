@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Java/maven-respo/com/sun/asm/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java/maven-respo/cglib/cglib-2.2.2.jar" sourcepath="C:/Users/pc/AppData/Local/Temp/.org.sf.feeling.decompiler1516926726476/source/cglib-2.2.2-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
