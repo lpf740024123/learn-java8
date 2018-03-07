@@ -11,6 +11,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  */
 public class ContextTest {
 
+	
 	@Test
 	public void demo1(){
 		BeanFactory beanFactory = new ClassPathXmlApplicationContext("context/applicationContext.xml");
